@@ -129,6 +129,8 @@ class FIRULO
                 }
                 PrintWorConv(f);
             break;
+            default:
+                System.out.println("The choice is wrong");
         }
     }
 
